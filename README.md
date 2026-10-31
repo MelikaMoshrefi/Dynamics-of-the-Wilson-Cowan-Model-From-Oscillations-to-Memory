@@ -1,0 +1,2 @@
+# Dynamics-of-the-Wilson-Cowan-Model-From-Oscillations-to-Memory
+This repository features "report-ed.pdf", a computational study on the dynamics of the Wilson-Cowan neural network model. It demonstrates how excitatory and inhibitory populations generate spontaneous gamma-band oscillations via Hopf bifurcations, and analyzes bistability and hysteresis as a mechanism for working memory and binary decision-making.
