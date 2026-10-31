@@ -1,2 +1,28 @@
-# Dynamics-of-the-Wilson-Cowan-Model-From-Oscillations-to-Memory
-This repository features "report-ed.pdf", a computational study on the dynamics of the Wilson-Cowan neural network model. It demonstrates how excitatory and inhibitory populations generate spontaneous gamma-band oscillations via Hopf bifurcations, and analyzes bistability and hysteresis as a mechanism for working memory and binary decision-making.
+# بررسی دینامیک مدل ویلسون-کوان
+
+این مخزن شامل کدهای برنامه و مستندات مربوط به مطالعه محاسباتی مدل شبکه عصبی ویلسون-کوان است. 
+
+## ساختار فایل‌ها و پوشه‌های پروژه
+
+محتویات این مخزن به شرح زیر سازمان‌دهی شده است[cite: 13]:
+
+* **کدها و اسکریپت‌های اصلی:**
+  * `main.py`: فایل اجرایی اصلی پایتون برای اجرای شبیه‌سازی‌ها[cite: 13].
+  * `wilson_cowan/`: پوشه ماژول اصلی حاوی کدهای پیاده‌سازی مدل[cite: 13].
+  * `requirements.txt`: لیست نیازمندی‌ها و کتابخانه‌های پایتون برای اجرای پروژه[cite: 13].
+
+* **داده‌ها و خروجی‌ها:**
+  * `data/`: پوشه محل ذخیره‌سازی داده‌های خروجی و محاسباتی[cite: 13].
+  * `figures/`: پوشه شامل نمودارها و تصاویر تولید شده در طول تحلیل[cite: 13].
+
+* **مستندات و گزارش‌ها:**
+  * `report-ed.pdf`: نسخه نهایی گزارش خروجی پروژه[cite: 13].
+  * `A.pdf`: فایل مستندات ضمیمه[cite: 13].
+  * `report.md` و `README.md`: مستندات متنی و راهنمای پروژه[cite: 13].
+  * `report-ed.tex`: فایل سورس LaTeX برای تولید گزارش نهایی به همراه فایل‌های جانبی (`.aux`, `.log`, `.out`, `.syncte...`)[cite: 13].
+  * `references/`: پوشه حاوی منابع و فایل‌های مرجع[cite: 13].
+
+* **تست و پیکربندی:**
+  * `tests/`: پوشه حاوی تست‌های نوشته شده برای اعتبارسنجی کدها[cite: 13].
+  * `pytest.ini`: فایل پیکربندی مربوط به اجرای تست‌های `pytest`[cite: 13].
+  * `.pytest_cache` و `__pycache__`: پوشه‌های کش سیستمی پایتون[cite: 13].
