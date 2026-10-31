@@ -27,7 +27,3 @@ The contents of this project are organized as follows[cite: 13]:
   * `pytest.ini`: Configuration settings for running `pytest`[cite: 13].
   * `.pytest_cache` & `__pycache__`: System cache directories[cite: 13].
 
-* **تست و پیکربندی:**
-  * `tests/`: پوشه حاوی تست‌های نوشته شده برای اعتبارسنجی کدها[cite: 13].
-  * `pytest.ini`: فایل پیکربندی مربوط به اجرای تست‌های `pytest`[cite: 13].
-  * `.pytest_cache` و `__pycache__`: پوشه‌های کش سیستمی پایتون[cite: 13].
